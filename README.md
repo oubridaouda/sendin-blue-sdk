@@ -1,2 +1,2 @@
-#SendinBlue email sender
+SendinBlue email sender
 
